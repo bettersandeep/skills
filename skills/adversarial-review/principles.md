@@ -64,5 +64,5 @@ These stay, also when they cost lines.
 
 ## 11. No data loss, data corruption
 
-Probe: are there cases where there is a posibility of data loss?
-Ensure that theres is no data loss
+Probe: are there cases where there is a possibility of data loss?
+Ensure that there is no data loss.
